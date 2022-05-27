@@ -26,4 +26,4 @@ The app is aimed at people from 5– 60 years old especially those who have an i
 - Languages are also supported for the application. These consist of English, Spanish, French, Arabic and Chinese (Traditional).
 
 # NOTE:
-This is only for the module due to copyright guidlines and won't be submitted on the Apple App store. This is since of the NBA logos and the Youtube video. 
+This is only for the module due to copyright guidlines and won't be submitted on the Apple App store. This is because of the NBA logos and the Youtube video. 
