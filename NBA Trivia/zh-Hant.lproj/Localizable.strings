@@ -1,0 +1,98 @@
+/* These probably used the calculate the scores - kept it the same */
+"%lld/%lld" = "%lld/%lld";
+
+/* This is probably used to calculate the percent - kept it the same , wasn't sure */
+"%lld%%" = "%lld%%";
+
+/* Walkthrough Screens 3 */
+"And play a video scavenger hunt!  Please get ready this video and search for ‘Top 10 Dunks of the Decade’ on Youtube before you begin!" = "並播放視頻尋寶遊戲！ 請準備好這段視頻，並在開始之前在 Youtube 上搜索'十年最佳扣籃'！";
+
+/* description before the game starts */
+"And without further ado...." = "事不宜遲......";
+
+/* button on Walkthrough screen 3 */
+"BEGIN" = "開始";
+
+/* how many correct answers that the user got */
+"Correct ✅: %lld" = "正確✅：%lld";
+
+/* Easy mode title */
+"Easy" = "簡單";
+
+/* instruction when playing the game - find the video */
+"Find and play this part of the video" = "查找並播放這部分視頻";
+
+/* Walkthrough screens 2 */
+"From easy to hard! These include current and historic NBA logos!" = "從易到難！ 其中包括當前和歷史悠久的 NBA 標誌！";
+
+/* Walkthrough screens 1 */
+"Got what it takes to test your NBA Knowledge?" = "了解測試您的 NBA 知識需要什麼？";
+
+/* Hard mode title */
+"Hard" = "難的";
+
+/* how many incorrect answers that the user got */
+"Incorrect ❌: %lld" = "不正確 ❌：%lld";
+
+/* video game button */
+"Let's Get Started!" = "讓我們開始吧！";
+
+/* Walkthrough screen title */
+"Logos" = "標誌";
+
+/* navigation title of the main menu */
+"NBA Trivia!" = "NBA Trivia!";
+
+/* Next */
+"Next" = "下一個";
+
+/* instruction on video guesser game */
+"Play that video to begin!" = "播放該視頻開始！";
+
+/* quiz description of main menu */
+"Please select a quiz you want to play!" = "請選擇您要玩的測驗！";
+
+/* restart button on video guesser game */
+"Restart" = "重新開始";
+
+/* button to return to the main menu */
+"Return to main menu" = "返回主菜單";
+
+/* blue button for the user in the welcome screen and video instructions screen */
+"START" = "開始";
+
+/* correct answer */
+"The correct answer was: %@" = "正確答案是：%@";
+
+/* Video guesser title */
+"Video Guesser" = "視頻猜測器";
+
+/* Walkthrough screen 3 */
+"Video guesser game" = "視頻猜謎遊戲";
+
+/* Walkthrough screen 1 */
+"Welcome To NBA Trivia!" = "歡迎來到 NBA 瑣事！";
+
+/* Description of the question */
+"Which NBA logo is this?" = "這是哪個NBA標誌？";
+
+/* Final score of the user */
+"Your Final Score:" = "你的最終分數：";
+
+//Launch screen view - not working
+"Loading NBA Trivia..." = "加載 NBA 瑣事...";
+
+//description before the video guesser game
+"Please remember to have 'Top 10 Dunks of the Decade' ready on another device. This video is found on Youtube." = "請記住在另一台設備上準備好“十年最佳扣籃”。 該視頻可在 Youtube 上找到。";
+
+// congratulations description
+"Congratulations! 🎉" = "恭喜！ 🎉";
+
+// unlucky description
+"Unlucky! ☹️" = "倒霉！ ☹️";
+
+// genius description
+"You are a true genius!" = "你是一個真正的天才！";
+
+// better luck next time description
+"Better luck next time." = "下次運氣更好。";

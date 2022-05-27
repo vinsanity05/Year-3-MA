@@ -11,6 +11,41 @@
 		C737E8CB27E3D9280008C262 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8CA27E3D9280008C262 /* ContentView.swift */; };
 		C737E8CD27E3D92B0008C262 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C737E8CC27E3D92B0008C262 /* Assets.xcassets */; };
 		C737E8D027E3D92B0008C262 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C737E8CF27E3D92B0008C262 /* Preview Assets.xcassets */; };
+		C737E8D727E3D9AF0008C262 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C737E8D627E3D9AF0008C262 /* LaunchScreen.storyboard */; };
+		C737E8D927E3DB2C0008C262 /* Top 10 Dunks of the decade NBA.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = C737E8D827E3DB2C0008C262 /* Top 10 Dunks of the decade NBA.shazamsignature */; };
+		C737E8DB27E3DBBD0008C262 /* VideoDetectionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8DA27E3DBBD0008C262 /* VideoDetectionHandler.swift */; };
+		C737E8DD27E3DBFE0008C262 /* VideoGuesserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8DC27E3DBFE0008C262 /* VideoGuesserModel.swift */; };
+		C737E8DF27E3DC090008C262 /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8DE27E3DC090008C262 /* VideoView.swift */; };
+		C737E8E127E3DD100008C262 /* GameViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8E027E3DD100008C262 /* GameViewModel.swift */; };
+		C737E8E327E3DD1D0008C262 /* ScoreViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8E227E3DD1D0008C262 /* ScoreViewModel.swift */; };
+		C737E8E527E3DD310008C262 /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8E427E3DD310008C262 /* GameModel.swift */; };
+		C737E8E727E3DD3F0008C262 /* LogoDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8E627E3DD3F0008C262 /* LogoDataModel.swift */; };
+		C737E8E927E3DD4E0008C262 /* WelcomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8E827E3DD4E0008C262 /* WelcomeScreen.swift */; };
+		C737E8EB27E3DD5C0008C262 /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8EA27E3DD5C0008C262 /* MainMenu.swift */; };
+		C737E8ED27E3DD670008C262 /* EasyGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8EC27E3DD670008C262 /* EasyGameView.swift */; };
+		C737E8EF27E3DD6E0008C262 /* EasyQuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8EE27E3DD6E0008C262 /* EasyQuestionView.swift */; };
+		C737E8F127E3DD810008C262 /* HardGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8F027E3DD810008C262 /* HardGameView.swift */; };
+		C737E8F327E3DD8A0008C262 /* HardQuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8F227E3DD8A0008C262 /* HardQuestionView.swift */; };
+		C737E8F527E3DD940008C262 /* ResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8F427E3DD940008C262 /* ResultsView.swift */; };
+		C737E8F727E3DD9D0008C262 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8F627E3DD9C0008C262 /* LogoView.swift */; };
+		C737E8F927E3DDC00008C262 /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8F827E3DDC00008C262 /* BackgroundView.swift */; };
+		C737E8FB27E3DDC80008C262 /* ImageinBlackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8FA27E3DDC80008C262 /* ImageinBlackView.swift */; };
+		C737E8FD27E3DDD00008C262 /* QuestionButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8FC27E3DDD00008C262 /* QuestionButtonView.swift */; };
+		C737E8FF27E3DDDC0008C262 /* NextButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E8FE27E3DDDC0008C262 /* NextButtonView.swift */; };
+		C737E90827E4D9EB0008C262 /* LaunchScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E90727E4D9EB0008C262 /* LaunchScreenView.swift */; };
+		C737E90B27E4DD2E0008C262 /* WalkthroughItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E90A27E4DD2E0008C262 /* WalkthroughItem.swift */; };
+		C737E90D27E4DD430008C262 /* walkthroughView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E90C27E4DD430008C262 /* walkthroughView.swift */; };
+		C737E90F27E4DD4C0008C262 /* walkthroughScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E90E27E4DD4C0008C262 /* walkthroughScreenView.swift */; };
+		C737E91127E4DD570008C262 /* walkthroughContentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E91027E4DD570008C262 /* walkthroughContentManager.swift */; };
+		C737E91327E4DD5F0008C262 /* walkthroughAssets.swift in Sources */ = {isa = PBXBuildFile; fileRef = C737E91227E4DD5F0008C262 /* walkthroughAssets.swift */; };
+		C790ABEE27EDDC2D00B4BA0D /* videoInstructionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C790ABED27EDDC2D00B4BA0D /* videoInstructionView.swift */; };
+		C7B73031280D77A5009F62B3 /* win.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B73030280D77A5009F62B3 /* win.mp3 */; };
+		C7B73033280D77C1009F62B3 /* fail.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B73032280D77C1009F62B3 /* fail.mp3 */; };
+		C7C9249227EE4BD500FBEA5C /* correct-answer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7C9249127EE4BD500FBEA5C /* correct-answer.mp3 */; };
+		C7C9249427EE4BE500FBEA5C /* wrong-answer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7C9249327EE4BE500FBEA5C /* wrong-answer.mp3 */; };
+		C7C9249627EE4C4600FBEA5C /* EffectsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C9249527EE4C4600FBEA5C /* EffectsHandler.swift */; };
+		C7F7160327E756BD0076E8BC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C7F7160127E756BD0076E8BC /* Localizable.strings */; };
+		C7F7160627E756BD0076E8BC /* NBA Trivia-InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C7F7160427E756BD0076E8BC /* NBA Trivia-InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +54,49 @@
 		C737E8CA27E3D9280008C262 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C737E8CC27E3D92B0008C262 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C737E8CF27E3D92B0008C262 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C737E8D627E3D9AF0008C262 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C737E8D827E3DB2C0008C262 /* Top 10 Dunks of the decade NBA.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Top 10 Dunks of the decade NBA.shazamsignature"; sourceTree = "<group>"; };
+		C737E8DA27E3DBBD0008C262 /* VideoDetectionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDetectionHandler.swift; sourceTree = "<group>"; };
+		C737E8DC27E3DBFE0008C262 /* VideoGuesserModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoGuesserModel.swift; sourceTree = "<group>"; };
+		C737E8DE27E3DC090008C262 /* VideoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+		C737E8E027E3DD100008C262 /* GameViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewModel.swift; sourceTree = "<group>"; };
+		C737E8E227E3DD1D0008C262 /* ScoreViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoreViewModel.swift; sourceTree = "<group>"; };
+		C737E8E427E3DD310008C262 /* GameModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
+		C737E8E627E3DD3F0008C262 /* LogoDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogoDataModel.swift; sourceTree = "<group>"; };
+		C737E8E827E3DD4E0008C262 /* WelcomeScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeScreen.swift; sourceTree = "<group>"; };
+		C737E8EA27E3DD5C0008C262 /* MainMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
+		C737E8EC27E3DD670008C262 /* EasyGameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EasyGameView.swift; sourceTree = "<group>"; };
+		C737E8EE27E3DD6E0008C262 /* EasyQuestionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EasyQuestionView.swift; sourceTree = "<group>"; };
+		C737E8F027E3DD810008C262 /* HardGameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HardGameView.swift; sourceTree = "<group>"; };
+		C737E8F227E3DD8A0008C262 /* HardQuestionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HardQuestionView.swift; sourceTree = "<group>"; };
+		C737E8F427E3DD940008C262 /* ResultsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultsView.swift; sourceTree = "<group>"; };
+		C737E8F627E3DD9C0008C262 /* LogoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		C737E8F827E3DDC00008C262 /* BackgroundView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		C737E8FA27E3DDC80008C262 /* ImageinBlackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageinBlackView.swift; sourceTree = "<group>"; };
+		C737E8FC27E3DDD00008C262 /* QuestionButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionButtonView.swift; sourceTree = "<group>"; };
+		C737E8FE27E3DDDC0008C262 /* NextButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextButtonView.swift; sourceTree = "<group>"; };
+		C737E90727E4D9EB0008C262 /* LaunchScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchScreenView.swift; sourceTree = "<group>"; };
+		C737E90A27E4DD2E0008C262 /* WalkthroughItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WalkthroughItem.swift; sourceTree = "<group>"; };
+		C737E90C27E4DD430008C262 /* walkthroughView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = walkthroughView.swift; sourceTree = "<group>"; };
+		C737E90E27E4DD4C0008C262 /* walkthroughScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = walkthroughScreenView.swift; sourceTree = "<group>"; };
+		C737E91027E4DD570008C262 /* walkthroughContentManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = walkthroughContentManager.swift; sourceTree = "<group>"; };
+		C737E91227E4DD5F0008C262 /* walkthroughAssets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = walkthroughAssets.swift; sourceTree = "<group>"; };
+		C790ABED27EDDC2D00B4BA0D /* videoInstructionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = videoInstructionView.swift; sourceTree = "<group>"; };
+		C7B73030280D77A5009F62B3 /* win.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = win.mp3; sourceTree = "<group>"; };
+		C7B73032280D77C1009F62B3 /* fail.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fail.mp3; sourceTree = "<group>"; };
+		C7C9249127EE4BD500FBEA5C /* correct-answer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "correct-answer.mp3"; sourceTree = "<group>"; };
+		C7C9249327EE4BE500FBEA5C /* wrong-answer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "wrong-answer.mp3"; sourceTree = "<group>"; };
+		C7C9249527EE4C4600FBEA5C /* EffectsHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EffectsHandler.swift; sourceTree = "<group>"; };
+		C7F7160227E756BD0076E8BC /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C7F7160527E756BD0076E8BC /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = "fr.lproj/NBA Trivia-InfoPlist.strings"; sourceTree = "<group>"; };
+		C7F7160727E757D70076E8BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C7F7160B27E7599A0076E8BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = "en.lproj/NBA Trivia-InfoPlist.strings"; sourceTree = "<group>"; };
+		C7F7160F27E75DC40076E8BC /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C7F7161027E75DC40076E8BC /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = "es.lproj/NBA Trivia-InfoPlist.strings"; sourceTree = "<group>"; };
+		C7F7161127E763780076E8BC /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C7F7161227E763780076E8BC /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = "ar.lproj/NBA Trivia-InfoPlist.strings"; sourceTree = "<group>"; };
+		C7F7161327E76BE50076E8BC /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		C7F7161427E76BE50076E8BC /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/NBA Trivia-InfoPlist.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +113,7 @@
 		C737E8BC27E3D9280008C262 = {
 			isa = PBXGroup;
 			children = (
+				C7F7160427E756BD0076E8BC /* NBA Trivia-InfoPlist.strings */,
 				C737E8C727E3D9280008C262 /* NBA Trivia */,
 				C737E8C627E3D9280008C262 /* Products */,
 			);
@@ -52,7 +131,16 @@
 			isa = PBXGroup;
 			children = (
 				C737E8C827E3D9280008C262 /* NBA_TriviaApp.swift */,
+				C7C9249027EE4BBE00FBEA5C /* Sounds */,
+				C7F7160127E756BD0076E8BC /* Localizable.strings */,
+				C737E8D827E3DB2C0008C262 /* Top 10 Dunks of the decade NBA.shazamsignature */,
 				C737E8CA27E3D9280008C262 /* ContentView.swift */,
+				C744188B27E74AB7004F7B07 /* Walkthrough */,
+				C737E90927E4DCE00008C262 /* Launch */,
+				C737E90027E3DF460008C262 /* Handler */,
+				C737E90227E3DF770008C262 /* Model */,
+				C737E90127E3DF600008C262 /* ViewModels */,
+				C737E90327E3DF910008C262 /* Views */,
 				C737E8CC27E3D92B0008C262 /* Assets.xcassets */,
 				C737E8CE27E3D92B0008C262 /* Preview Content */,
 			);
@@ -65,6 +153,119 @@
 				C737E8CF27E3D92B0008C262 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C737E90027E3DF460008C262 /* Handler */ = {
+			isa = PBXGroup;
+			children = (
+				C737E8DA27E3DBBD0008C262 /* VideoDetectionHandler.swift */,
+				C7C9249527EE4C4600FBEA5C /* EffectsHandler.swift */,
+			);
+			path = Handler;
+			sourceTree = "<group>";
+		};
+		C737E90127E3DF600008C262 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				C737E8E027E3DD100008C262 /* GameViewModel.swift */,
+				C737E8E227E3DD1D0008C262 /* ScoreViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		C737E90227E3DF770008C262 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C737E8DC27E3DBFE0008C262 /* VideoGuesserModel.swift */,
+				C737E8E427E3DD310008C262 /* GameModel.swift */,
+				C737E8E627E3DD3F0008C262 /* LogoDataModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		C737E90327E3DF910008C262 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C737E8E827E3DD4E0008C262 /* WelcomeScreen.swift */,
+				C737E8EA27E3DD5C0008C262 /* MainMenu.swift */,
+				C79FCDA027FF577E00837798 /* SubViews */,
+				C737E90427E3DFCD0008C262 /* Easy Mode */,
+				C737E90527E3DFDA0008C262 /* Hard Mode */,
+				C737E90627E3E6060008C262 /* Video Guesser Game */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C737E90427E3DFCD0008C262 /* Easy Mode */ = {
+			isa = PBXGroup;
+			children = (
+				C737E8EC27E3DD670008C262 /* EasyGameView.swift */,
+				C737E8EE27E3DD6E0008C262 /* EasyQuestionView.swift */,
+			);
+			path = "Easy Mode";
+			sourceTree = "<group>";
+		};
+		C737E90527E3DFDA0008C262 /* Hard Mode */ = {
+			isa = PBXGroup;
+			children = (
+				C737E8F027E3DD810008C262 /* HardGameView.swift */,
+				C737E8F227E3DD8A0008C262 /* HardQuestionView.swift */,
+			);
+			path = "Hard Mode";
+			sourceTree = "<group>";
+		};
+		C737E90627E3E6060008C262 /* Video Guesser Game */ = {
+			isa = PBXGroup;
+			children = (
+				C737E8DE27E3DC090008C262 /* VideoView.swift */,
+			);
+			path = "Video Guesser Game";
+			sourceTree = "<group>";
+		};
+		C737E90927E4DCE00008C262 /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				C737E90727E4D9EB0008C262 /* LaunchScreenView.swift */,
+				C737E8D627E3D9AF0008C262 /* LaunchScreen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		C744188B27E74AB7004F7B07 /* Walkthrough */ = {
+			isa = PBXGroup;
+			children = (
+				C737E90A27E4DD2E0008C262 /* WalkthroughItem.swift */,
+				C737E90C27E4DD430008C262 /* walkthroughView.swift */,
+				C737E90E27E4DD4C0008C262 /* walkthroughScreenView.swift */,
+				C737E91027E4DD570008C262 /* walkthroughContentManager.swift */,
+				C737E91227E4DD5F0008C262 /* walkthroughAssets.swift */,
+			);
+			path = Walkthrough;
+			sourceTree = "<group>";
+		};
+		C79FCDA027FF577E00837798 /* SubViews */ = {
+			isa = PBXGroup;
+			children = (
+				C790ABED27EDDC2D00B4BA0D /* videoInstructionView.swift */,
+				C737E8F427E3DD940008C262 /* ResultsView.swift */,
+				C737E8F627E3DD9C0008C262 /* LogoView.swift */,
+				C737E8F827E3DDC00008C262 /* BackgroundView.swift */,
+				C737E8FA27E3DDC80008C262 /* ImageinBlackView.swift */,
+				C737E8FC27E3DDD00008C262 /* QuestionButtonView.swift */,
+				C737E8FE27E3DDDC0008C262 /* NextButtonView.swift */,
+			);
+			path = SubViews;
+			sourceTree = "<group>";
+		};
+		C7C9249027EE4BBE00FBEA5C /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				C7C9249127EE4BD500FBEA5C /* correct-answer.mp3 */,
+				C7C9249327EE4BE500FBEA5C /* wrong-answer.mp3 */,
+				C7B73032280D77C1009F62B3 /* fail.mp3 */,
+				C7B73030280D77A5009F62B3 /* win.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -109,6 +310,10 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hant",
+				fr,
+				ar,
+				es,
 			);
 			mainGroup = C737E8BC27E3D9280008C262;
 			productRefGroup = C737E8C627E3D9280008C262 /* Products */;
@@ -125,6 +330,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7B73031280D77A5009F62B3 /* win.mp3 in Resources */,
+				C7C9249427EE4BE500FBEA5C /* wrong-answer.mp3 in Resources */,
+				C7F7160327E756BD0076E8BC /* Localizable.strings in Resources */,
+				C7C9249227EE4BD500FBEA5C /* correct-answer.mp3 in Resources */,
+				C737E8D927E3DB2C0008C262 /* Top 10 Dunks of the decade NBA.shazamsignature in Resources */,
+				C737E8D727E3D9AF0008C262 /* LaunchScreen.storyboard in Resources */,
+				C7B73033280D77C1009F62B3 /* fail.mp3 in Resources */,
+				C7F7160627E756BD0076E8BC /* NBA Trivia-InfoPlist.strings in Resources */,
 				C737E8D027E3D92B0008C262 /* Preview Assets.xcassets in Resources */,
 				C737E8CD27E3D92B0008C262 /* Assets.xcassets in Resources */,
 			);
@@ -137,12 +350,67 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C737E91327E4DD5F0008C262 /* walkthroughAssets.swift in Sources */,
+				C7C9249627EE4C4600FBEA5C /* EffectsHandler.swift in Sources */,
+				C737E90B27E4DD2E0008C262 /* WalkthroughItem.swift in Sources */,
+				C737E8FF27E3DDDC0008C262 /* NextButtonView.swift in Sources */,
+				C737E90827E4D9EB0008C262 /* LaunchScreenView.swift in Sources */,
+				C737E8F927E3DDC00008C262 /* BackgroundView.swift in Sources */,
+				C737E8FB27E3DDC80008C262 /* ImageinBlackView.swift in Sources */,
+				C737E8FD27E3DDD00008C262 /* QuestionButtonView.swift in Sources */,
+				C737E8F727E3DD9D0008C262 /* LogoView.swift in Sources */,
+				C737E8ED27E3DD670008C262 /* EasyGameView.swift in Sources */,
+				C790ABEE27EDDC2D00B4BA0D /* videoInstructionView.swift in Sources */,
+				C737E8F527E3DD940008C262 /* ResultsView.swift in Sources */,
+				C737E8EB27E3DD5C0008C262 /* MainMenu.swift in Sources */,
+				C737E8E127E3DD100008C262 /* GameViewModel.swift in Sources */,
+				C737E8EF27E3DD6E0008C262 /* EasyQuestionView.swift in Sources */,
+				C737E8DD27E3DBFE0008C262 /* VideoGuesserModel.swift in Sources */,
+				C737E8E927E3DD4E0008C262 /* WelcomeScreen.swift in Sources */,
+				C737E8DF27E3DC090008C262 /* VideoView.swift in Sources */,
+				C737E8F127E3DD810008C262 /* HardGameView.swift in Sources */,
+				C737E8E727E3DD3F0008C262 /* LogoDataModel.swift in Sources */,
+				C737E8DB27E3DBBD0008C262 /* VideoDetectionHandler.swift in Sources */,
 				C737E8CB27E3D9280008C262 /* ContentView.swift in Sources */,
+				C737E90F27E4DD4C0008C262 /* walkthroughScreenView.swift in Sources */,
+				C737E8F327E3DD8A0008C262 /* HardQuestionView.swift in Sources */,
+				C737E8E527E3DD310008C262 /* GameModel.swift in Sources */,
+				C737E90D27E4DD430008C262 /* walkthroughView.swift in Sources */,
 				C737E8C927E3D9280008C262 /* NBA_TriviaApp.swift in Sources */,
+				C737E91127E4DD570008C262 /* walkthroughContentManager.swift in Sources */,
+				C737E8E327E3DD1D0008C262 /* ScoreViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C7F7160127E756BD0076E8BC /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C7F7160227E756BD0076E8BC /* fr */,
+				C7F7160727E757D70076E8BC /* en */,
+				C7F7160F27E75DC40076E8BC /* es */,
+				C7F7161127E763780076E8BC /* ar */,
+				C7F7161327E76BE50076E8BC /* zh-Hant */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		C7F7160427E756BD0076E8BC /* NBA Trivia-InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C7F7160527E756BD0076E8BC /* fr */,
+				C7F7160B27E7599A0076E8BC /* en */,
+				C7F7161027E75DC40076E8BC /* es */,
+				C7F7161227E763780076E8BC /* ar */,
+				C7F7161427E76BE50076E8BC /* zh-Hant */,
+			);
+			name = "NBA Trivia-InfoPlist.strings";
+			path = "NBA Trivia";
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		C737E8D127E3D92B0008C262 /* Debug */ = {
@@ -201,6 +469,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -254,6 +523,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -270,11 +540,14 @@
 				DEVELOPMENT_TEAM = 794RZM2ZVQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow this so you can play the video and it will detect it.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +572,14 @@
 				DEVELOPMENT_TEAM = 794RZM2ZVQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow this so you can play the video and it will detect it.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

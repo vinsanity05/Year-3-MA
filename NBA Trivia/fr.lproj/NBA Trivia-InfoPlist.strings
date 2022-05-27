@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "NBA Trivia";
+
+/* Privacy - Microphone Usage Description - not sure why it isn't working */
+"NSMicrophoneUsageDescription" = "Veuillez l'autoriser afin que vous puissiez lire la vidéo et qu'elle la détecte.";
+

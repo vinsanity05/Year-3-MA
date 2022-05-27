@@ -1,0 +1,98 @@
+/* These probably used the calculate the scores - kept it the same */
+"%lld/%lld" = "%lld/%lld";
+
+/* This is probably used to calculate the percent - kept it the same , wasn't sure*/
+"%lld%%" = "%lld%%";
+
+/* Walkthrough Screens 3 */
+"And play a video scavenger hunt!  Please get ready this video and search for ‘Top 10 Dunks of the Decade’ on Youtube before you begin!" = "And play a video scavenger hunt!  Please get ready this video and search for ‘Top 10 Dunks of the Decade’ on Youtube before you begin!";
+
+/* description before the game starts */
+"And without further ado...." = "And without further ado....";
+
+/*  button on Walkthrough screen 3 */
+"BEGIN" = "BEGIN";
+
+/* how many correct answers that the user got */
+"Correct ✅: %lld" = "Correct ✅: %lld";
+
+/* Easy mode title */
+"Easy" = "Easy";
+
+/* instruction when playing the game - find the video */
+"Find and play this part of the video" = "Find and play this part of the video";
+
+/* Walkthrough screens 2 */
+"From easy to hard! These include current and historic NBA logos!" = "From easy to hard! These include current and historic NBA logos!";
+
+/* Walkthrough screens 1 */
+"Got what it takes to test your NBA Knowledge?" = "Got what it takes to test your NBA Knowledge?";
+
+/* Hard mode title */
+"Hard" = "Hard";
+
+/* how many incorrect answers that the user got */
+"Incorrect ❌: %lld" = "Incorrect ❌: %lld";
+
+/* video game button */
+"Let's Get Started!" = "Let's Get Started!";
+
+/* Walkthrough screen title */
+"Logos" = "Logos";
+
+/* navigation title of the main menu */
+"NBA Trivia!" = "NBA Trivia!";
+
+/* Next */
+"Next" = "Next";
+
+/* instruction on video guesser game */
+"Play that video to begin!" = "Play that video to begin!";
+
+/* quiz description of main menu */
+"Please select a quiz you want to play!" = "Please select a quiz you want to play!";
+
+/* restart button on video guesser game */
+"Restart" = "Restart";
+
+/* button to return to the main menu */
+"Return to main menu" = "Return to main menu";
+
+/* blue button for the user in the welcome screen and video instructions screen */
+"START" = "START";
+
+/* correct answer */
+"The correct answer was: %@" = "The correct answer was: %@";
+
+/* Video guesser title */
+"Video Guesser" = "Video Guesser";
+
+/* Walkthrough screen 3 */
+"Video guesser game" = "Video guesser game";
+
+/* Walkthrough screen 1 */
+"Welcome To NBA Trivia!" = "Welcome To NBA Trivia!";
+
+/* Description of the question */
+"Which NBA logo is this?" = "Which NBA logo is this?";
+
+/* Final score of the user */
+"Your Final Score:" = "Your Final Score:";
+
+//Launch screen view - not working
+"Loading NBA Trivia..." = "Loading NBA Trivia...";
+
+//description before the video guesser game
+"Please remember to have 'Top 10 Dunks of the Decade' ready on another device. This video is found on Youtube." = "Please remember to have 'Top 10 Dunks of the Decade' ready on another device. This video is found on Youtube.";
+
+// congratulations description
+"Congratulations! 🎉" = "Congratulations! 🎉";
+
+// unlucky description
+"Unlucky! ☹️" = "Unlucky! ☹️";
+
+// genius description
+"You are a true genius!" = "You are a true genius!";
+
+// better luck next time description
+"Better luck next time." = "Better luck next time.";
